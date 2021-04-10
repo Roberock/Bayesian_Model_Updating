@@ -2,7 +2,7 @@
 Bayesian Framework for Updating
 
 
-Data can be downloaded at
+Data for cracked suspension arm can be downloaded here
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4678117.svg)](https://doi.org/10.5281/zenodo.4678117)
 
 
